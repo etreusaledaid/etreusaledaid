@@ -3,11 +3,9 @@
 
 <img align='right' src="catsleep.gif" height="" width="200" alt="coding cat" title="Writing code">
 I create the backend code framework and implement the frontend using the object-oriented programming paradigm.
-
-
+<br><br>
 I am interested in expanding my knowledge in the technological field, I am self-taught and I am looking for a way to put what I have learned into practice.
-
-
+<br><br>
 When I work as a team, I consider that we are all part of the same machine that will achieve its objective, so the support of the team is very important because you are always in constant learning.
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
