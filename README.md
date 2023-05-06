@@ -12,6 +12,8 @@ When I work as a team, I consider that we are all part of the same machine that 
 
 ## 💻 Languages and Tools:
 
+<p align="center">
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -28,3 +30,5 @@ When I work as a team, I consider that we are all part of the same machine that 
 ![Ilustrator](https://img.shields.io/badge/Ilustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![XD](https://img.shields.io/badge/XD-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white)
+
+</p>
